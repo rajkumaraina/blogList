@@ -1,0 +1,34 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profileContainer {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profileImg {
+  width: 105px;
+  height: 105px;
+}
+.heading {
+  color: #000000;
+  margin: 4px;
+}
+.para {
+  margin: 4px;
+  color: #9aa5b1;
+  font-size: 15px;
+}
+.blogContainer {
+  width: 100%;
+  display: flex;
+  padding: 0;
+  flex-direction: column;
+  align-items: center;
+}

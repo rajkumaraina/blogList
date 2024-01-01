@@ -1,0 +1,20 @@
+.listItemBlog {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+}
+.timeContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.blogHeading {
+  color: #000000;
+  font-size: 24px;
+}
+.blogTime {
+  color: #616e7c;
+}
