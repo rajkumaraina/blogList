@@ -18,3 +18,12 @@
 .blogTime {
   color: #616e7c;
 }
+.blogPara {
+  color: #616e7c;
+}
+@media (max-width: 576px) {
+  .blogPara {
+    color: #616e7c;
+    width: 85%;
+  }
+}

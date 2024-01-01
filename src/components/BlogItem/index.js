@@ -9,7 +9,7 @@ const BlogItem = props => {
         <h1 className="blogHeading">{title}</h1>
         <p className="blogTime">{publishedDate}</p>
       </div>
-      <p className="blogtime">{description}</p>
+      <p className="blogPara">{description}</p>
     </li>
   )
 }

@@ -1,1 +1,6 @@
 /* Write your CSS code here */
+@media (max-width: 576px) {
+  .profileContainer {
+    width: 65%;
+  }
+}
